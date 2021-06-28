@@ -14,3 +14,6 @@ Open, edit and run the notebook which fits best your experience with python and/
 - NR background S1 spectrum: `Bkg-NR-S1.txt`
 - An example dataset you can work with: `example_dataset_0.pkl` (this is a pickle file containing a Pandas dataframe)
 - Test statistic distributions under signal hypotheses: `test_stat_distributions.pkl` (this is a pickle file containing a Pandas dataframe)
+
+## Exercise solution:
+You can find a complete version of the notebook, where the excercise is fully solved, in the subdirectory: `solution`
