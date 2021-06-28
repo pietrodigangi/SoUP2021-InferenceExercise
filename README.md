@@ -5,7 +5,8 @@ Exercise on statistical inference for a dark matter search experiment for the So
 It is available in two versions
 - for python/Jupyter beginners: `Inference-beginners.ipynb`
 - for python/Jupyter experts: `Inference-pro.ipynb` 
-Open, edit and run the notebook depending on your experience with python and/or Jupyter notebooks.
+
+Open, edit and run the notebook which fits best your experience with python and/or Jupyter notebooks.
 
 ### Ancillary input files
 - Signal S1 spectrum: `Sig-WIMP-50-S1.txt`
