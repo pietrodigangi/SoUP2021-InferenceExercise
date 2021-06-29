@@ -2,11 +2,11 @@
 Exercise on statistical inference for a dark matter search experiment for the [SoUP 20|21 INFN School](https://indico.cern.ch/event/871645/)
 
 ## Exercise Jupyter notebook: 
-It is available in two versions
+It is available in two versions (depending on your level)
 - for python/Jupyter beginners: `Inference-beginners.ipynb`
 - for python/Jupyter experts: `Inference-pro.ipynb` 
 
-Open, edit and run the notebook which fits best your experience with python and/or Jupyter notebooks.
+Download this repository on your machine, run Jupyter and open one of the above exercise notebooks.
 
 ### Ancillary input files
 - Signal S1 spectrum: `Sig-WIMP-50-S1.txt`
