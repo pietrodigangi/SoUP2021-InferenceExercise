@@ -1,5 +1,5 @@
 # SoUP2022-InferenceExercise
-Exercise on statistical inference for a dark matter search experiment for the [SoUP 2022 INFN School]([https://soup2022.ca.infn.it/])
+Exercise on statistical inference for a dark matter search experiment for the [SoUP 2022 INFN School](https://soup2022.ca.infn.it/)
 
 ## Exercise Jupyter notebook: 
 - The exercise is given in this notebook: `Inference.ipynb` 
