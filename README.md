@@ -1,4 +1,4 @@
-# SoUP2021-InferenceExercise
+# SoUP2022-InferenceExercise
 Exercise on statistical inference for a dark matter search experiment for the [SoUP 20|21 INFN School](https://indico.cern.ch/event/871645/)
 
 ## Exercise Jupyter notebook: 
